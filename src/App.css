@@ -37,17 +37,25 @@
   }
 }
 
-.internet,.electricity{
+/* .internet,.electricity{
   width:300px;
   padding-left: 20px;
-}
+} */
 
-.date1, .date2{
+.date1, .date2,.date3,.date4{
   text-align: left;
   padding-left:20px;
+  width:300px;
 }
 
 .checks1{
   text-align: left;
   padding-left: 20px;
+}
+
+.profileHead{
+  text-align: left;
+  padding-left: 10px;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
